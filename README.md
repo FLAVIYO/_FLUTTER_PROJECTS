@@ -4,6 +4,9 @@ Welcome to my collection of flutter projects! Below is a list of various flutter
 
 ## Projects List
 
+**[ FcmChatApp ](https://github.com/FLAVIYO/fcmChatApp)**  
+fcmChatApp is a Flutter-based application designed to facilitate seamless communication and show case my ability to biuld a clean application that is produced grade
+
 **[ Meedical Professionals(Private) ](https://github.com/Pharmanathi/pharmanathi.com/tree/main)**  
 This project aims to bridge the gap between people needing medical assistance and medical professionals in South Africa. 
 
